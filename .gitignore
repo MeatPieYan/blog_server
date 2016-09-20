@@ -1,0 +1,15 @@
+node_modules
+
+# Ignore Mac OS desktop services store
+.DS_Store
+
+# Ignore Windows desktop setting file
+desktop.ini
+
+*.log
+
+.idea
+
+*.sublime-project
+*.sublime-workspace
+*.swp
